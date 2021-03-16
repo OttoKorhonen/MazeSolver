@@ -1,0 +1,11 @@
+-Ennen ohjelman käynnistystä ohjelmointikieli python3 tulee olla asennettuna.
+-Pythonin kirjasto numpy asennetaan kirjoittamalla terminaaliin pip3 install numpy
+-Ohjelma voidaan käynnistää visual studio codessa menemällä  main.py-tiedostoon ja ikkunan
+ oikeasta yläkulmasta painetaan vihreää kolmiota.
+-Metodissa def get_maze() rivillä neljä voidaan valita minkä tiedoston sovellus lukee.
+-Ohjelma tulostaa labyrintin tiedostoon labyrintti.txt
+-Ohjelmassa on virhe metodissa def stepping_in_maze(). Riville 73 pitää korjata looppi, joka toteuttaa koodia niin monta kertaa,
+kun sovelluksessa on ulospääsyjä. Rivillä 68 on koodi, jolla ohjelma saadaan toimimaan toisen kartan kanssa.
+Muuten sovellus toimii hyvin.
+
+  
